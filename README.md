@@ -40,8 +40,7 @@ I'm a passionate Android Developer specializing in building high-performance, re
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chikhZE&show_icons=true&theme=radial&hide_border=true" alt="ZineEddine's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chikhZE&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chikhZE" alt="Top Languages" width="48%" />
 </p>
 
 ---
