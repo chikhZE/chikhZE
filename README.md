@@ -11,10 +11,10 @@ I'm a passionate Android Developer specializing in building high-performance, re
 | Domain | Technologies & Tools |
 | :--- | :--- |
 | **Mobile Development** | Kotlin, Jetpack Compose, Coroutines, StateFlow, Room DB |
-| **Architecture & Testing** | Clean Architecture, MVVM, Hilt (DI), JUnit 5, MockK |
+| **Architecture & Testing** | Clean Architecture, MVVM, Hilt (DI) |
 | **Backend & Cloud** | Firebase (Auth, Firestore, FCM), Ktor, REST APIs, Retrofit, MongoDB |
 | **Web Foundations** | HTML5, CSS3, JavaScript, SASS, PugJS |
-| **Tools & CI/CD** | Git, GitHub, GitHub Actions, Credential Manager API, Netlify |
+| **Tools & CI/CD** | Git, GitHub,  |
 
 ---
 
